@@ -1,0 +1,20 @@
+@media screen and (max-width: 600px) and (min-width: 50px){
+    .name-col{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+
+    .link-nav{
+        display: flex;
+        
+        justify-content: center;
+        }
+    .link-nav a{
+        text-decoration: none;
+        color: black;
+        margin-left: 0.9rem;
+        margin-right: 0.9rem;
+    }
+}
